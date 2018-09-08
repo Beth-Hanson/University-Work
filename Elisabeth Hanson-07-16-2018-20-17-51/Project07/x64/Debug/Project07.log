@@ -1,0 +1,8 @@
+﻿  main.c
+d:\microsoft visual studio\source\repos\elisabeth hanson-07-16-2018-20-17-51\project07\main.c(39): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[1000]'
+d:\microsoft visual studio\source\repos\elisabeth hanson-07-16-2018-20-17-51\project07\main.c(39): warning C4024: 'fgets': different types for formal and actual parameter 1
+d:\microsoft visual studio\source\repos\elisabeth hanson-07-16-2018-20-17-51\project07\main.c(64): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[1000]'
+d:\microsoft visual studio\source\repos\elisabeth hanson-07-16-2018-20-17-51\project07\main.c(64): warning C4024: 'fgets': different types for formal and actual parameter 1
+d:\microsoft visual studio\source\repos\elisabeth hanson-07-16-2018-20-17-51\project07\main.c(72): warning C4047: '=': 'char' differs in levels of indirection from 'void *'
+d:\microsoft visual studio\source\repos\elisabeth hanson-07-16-2018-20-17-51\project07\main.c(86): warning C4047: '=': 'char' differs in levels of indirection from 'void *'
+  Project07.vcxproj -> D:\Microsoft Visual Studio\source\repos\Elisabeth Hanson-07-16-2018-20-17-51\x64\Debug\Project07.exe

@@ -1,0 +1,43 @@
+[0716/203259:INFO:(0)] WebCore is now online.
+[0716/203259:INFO:(0)] Running Awesomium 1.7.5.1
+[0717/204551:INFO:(0)] WebCore is now online.
+[0717/204551:INFO:(0)] Running Awesomium 1.7.5.1
+[0717/213532:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server media1.tenor.com:443 failed; NSS error code -12190, net_error -107
+[0717/213532:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server media1.tenor.com:443 failed; NSS error code -12286, net_error -113
+[0718/121022:INFO:(0)] WebCore is now online.
+[0718/121022:INFO:(0)] Running Awesomium 1.7.5.1
+[0718/121026:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server media1.tenor.com:443 failed; NSS error code -12190, net_error -107
+[0718/121026:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server media1.tenor.com:443 failed; NSS error code -12286, net_error -113
+[0718/121030:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server media1.tenor.com:443 failed; NSS error code -12286, net_error -113
+[0718/135801:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server media1.tenor.com:443 failed; NSS error code -12286, net_error -113
+[0718/155838:INFO:(0)] WebCore is now online.
+[0718/155838:INFO:(0)] Running Awesomium 1.7.5.1
+[0718/155912:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server media1.tenor.com:443 failed; NSS error code -12190, net_error -107
+[0718/155912:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server media1.tenor.com:443 failed; NSS error code -12286, net_error -113
+[0718/160154:INFO:(0)] WebCore is now online.
+[0718/160154:INFO:(0)] Running Awesomium 1.7.5.1
+[0718/160221:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server media1.tenor.com:443 failed; NSS error code -12190, net_error -107
+[0718/160221:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server media1.tenor.com:443 failed; NSS error code -12286, net_error -113
+[0718/185128:INFO:(0)] WebCore is now online.
+[0718/185128:INFO:(0)] Running Awesomium 1.7.5.1
+[0718/185154:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server media1.tenor.com:443 failed; NSS error code -12190, net_error -107
+[0718/185154:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server media1.tenor.com:443 failed; NSS error code -12286, net_error -113
+[0718/195400:INFO:(0)] WebCore is now online.
+[0718/195400:INFO:(0)] Running Awesomium 1.7.5.1
+[0718/195431:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server media1.tenor.com:443 failed; NSS error code -12190, net_error -107
+[0718/195431:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server media1.tenor.com:443 failed; NSS error code -12286, net_error -113
+[0719/091138:INFO:(0)] WebCore is now online.
+[0719/091138:INFO:(0)] Running Awesomium 1.7.5.1
+[0724/121424:INFO:(0)] WebCore is now online.
+[0724/121424:INFO:(0)] Running Awesomium 1.7.5.1
+[0724/121444:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server media1.tenor.com:443 failed; NSS error code -12190, net_error -107
+[0724/121444:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server media1.tenor.com:443 failed; NSS error code -12286, net_error -113
+[0724/121452:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server media1.tenor.com:443 failed; NSS error code -12286, net_error -113
+[0828/130950:INFO:(0)] WebCore is now online.
+[0828/130950:INFO:(0)] Running Awesomium 1.7.5.1
+[0830/134725:INFO:(0)] WebCore is now online.
+[0830/134725:INFO:(0)] Running Awesomium 1.7.5.1
+[0830/143800:INFO:(0)] WebCore is now online.
+[0830/143800:INFO:(0)] Running Awesomium 1.7.5.1
+[0901/142203:INFO:(0)] WebCore is now online.
+[0901/142203:INFO:(0)] Running Awesomium 1.7.5.1

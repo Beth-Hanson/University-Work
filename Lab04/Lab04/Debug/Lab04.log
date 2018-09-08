@@ -1,0 +1,5 @@
+﻿  Lab04.c
+  main.c
+d:\microsoft visual studio\source\repos\lab04\lab04\main.c(65): warning C4013: 'system' undefined; assuming extern returning int
+  Generating Code...
+  Lab04.vcxproj -> D:\Microsoft Visual Studio\source\repos\Lab04\Debug\Lab04.exe

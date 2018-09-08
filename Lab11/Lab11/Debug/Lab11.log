@@ -1,0 +1,5 @@
+﻿  lab11.c
+d:\microsoft visual studio\source\repos\lab11\lab11\lab11.c(52): warning C4047: 'function': 'const char *' differs in levels of indirection from 'int'
+d:\microsoft visual studio\source\repos\lab11\lab11\lab11.c(52): warning C4024: 'strcpy': different types for formal and actual parameter 2
+d:\microsoft visual studio\source\repos\lab11\lab11\lab11.c(52): warning C4020: 'strcpy': too many actual parameters
+  Lab11.vcxproj -> D:\Microsoft Visual Studio\source\repos\Lab11\Debug\Lab11.exe

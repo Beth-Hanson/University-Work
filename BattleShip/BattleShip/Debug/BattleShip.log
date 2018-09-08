@@ -1,0 +1,5 @@
+﻿  BattleShip.c
+d:\microsoft visual studio\source\repos\battleship\battleship\battleship.c(23): warning C4047: 'function': 'char (*)[10]' differs in levels of indirection from 'char'
+d:\microsoft visual studio\source\repos\battleship\battleship\battleship.c(23): warning C4024: 'place_ship': different types for formal and actual parameter 1
+d:\microsoft visual studio\source\repos\battleship\battleship\battleship.c(25): warning C4047: 'return': 'int' differs in levels of indirection from 'char (*)[10]'
+  BattleShip.vcxproj -> D:\Microsoft Visual Studio\source\repos\BattleShip\Debug\BattleShip.exe

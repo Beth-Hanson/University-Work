@@ -1,0 +1,3 @@
+﻿  main.c
+d:\microsoft visual studio\source\repos\lab02\lab02\main.c(20): warning C4013: 'system' undefined; assuming extern returning int
+  Lab02.vcxproj -> D:\Microsoft Visual Studio\source\repos\Lab02\Debug\Lab02.exe

@@ -1,0 +1,5 @@
+﻿  L3Task1.c
+  main.c
+d:\microsoft visual studio\source\repos\lab03\lab03\main.c(13): warning C4047: '=': 'FILE *' differs in levels of indirection from 'FILE *(__cdecl *)(void)'
+  Generating Code...
+  Lab03.vcxproj -> D:\Microsoft Visual Studio\source\repos\Lab03\Debug\Lab03.exe

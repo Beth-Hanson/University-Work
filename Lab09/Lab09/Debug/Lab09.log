@@ -1,0 +1,5 @@
+﻿  lab09.c
+  main.c
+  Generating Code...
+d:\microsoft visual studio\source\repos\lab09\lab09\lab09.c(28): warning C4716: 'string_reverse': must return a value
+  Lab09.vcxproj -> D:\Microsoft Visual Studio\source\repos\Lab09\Debug\Lab09.exe

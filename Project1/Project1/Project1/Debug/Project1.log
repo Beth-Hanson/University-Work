@@ -1,0 +1,8 @@
+﻿  main.c
+e:\project1\project1\project1\main.c(87): warning C4476: 'printf' : unknown type field character ')' in format specifier
+e:\project1\project1\project1\main.c(88): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 4 has type 'double'
+e:\project1\project1\project1\main.c(88): warning C4476: 'printf' : unknown type field character ')' in format specifier
+e:\project1\project1\project1\main.c(88): warning C4473: 'printf' : not enough arguments passed for format string
+  e:\project1\project1\project1\main.c(88): note: placeholders and their parameters expect 5 variadic arguments, but 4 were provided
+  e:\project1\project1\project1\main.c(88): note: the missing variadic argument 5 is required by format string '%e'
+  Project1.vcxproj -> E:\Project1\Project1\Debug\Project1.exe
